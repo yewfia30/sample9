@@ -5,6 +5,7 @@
 //  Created by yoshinobu on 2016/03/26.
 //  Copyright © 2016年 testorg. All rights reserved...
 //  branch1.copy from branch1
+//  branch2.もしもし
 //
 
 #import "ViewController.h"
